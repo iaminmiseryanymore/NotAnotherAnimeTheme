@@ -1,36 +1,3 @@
-/**
-* @name NotAnotherAnimeTheme
-* @author puckzxz#2080
-* @version 3.2
-* @description An easily customizable and automatically updating theme
-* @invite FdZhbjY
-* @source https://github.com/puckzxz/NotAnotherAnimeTheme
-* @updateUrl https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeTheme.theme.css
-*/
-
-@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css);
-
-/*
-  To make editing this theme easier I recommend using Notepad++
-  you can download it for free here https://notepad-plus-plus.org/download/
-*/
-
-/* Any images you use MUST end with .jpg or .png or any other image extension */
-
-:root {
-  /*
-    Theme Background
-  */
-  --theme-background-image: url(/**
-* @name NotAnotherAnimeTheme
-* @author puckzxz#2080
-* @version 3.2
-* @description An easily customizable and automatically updating theme
-* @invite FdZhbjY
-* @source https://github.com/puckzxz/NotAnotherAnimeTheme
-* @updateUrl https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeTheme.theme.css
-*/
-
 @import url(https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css);
 
 /*
